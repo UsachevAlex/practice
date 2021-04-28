@@ -1,0 +1,7 @@
+C:\Users\111\Desktop\2\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\111\Desktop\2\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\111\Desktop\2\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\111\Desktop\2\ConsoleApp3\obj\Debug\SamePrefixWords.csprojAssemblyReference.cache
+C:\Users\111\Desktop\2\ConsoleApp3\obj\Debug\SamePrefixWords.csproj.CoreCompileInputs.cache
+C:\Users\111\Desktop\2\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\111\Desktop\2\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
